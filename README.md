@@ -66,6 +66,20 @@ This Xcode plugin disables the Fix Issue functionality in Xcode. This way, none 
 ####[FastEasyMapping](https://github.com/Yalantis/FastEasyMapping)
 An easy way to unmarshall a Dictionary of attributes (which came from JSON, XML or just a NSDictionary) into a Class and vice versa.
 
+####[Form](https://github.com/hyperoslo/Form)
+The most flexible and powerful way to build a form on iOS.
+
+`Form` came out from our need to have a form that could share logic between our iOS apps and our web clients. We found that JSON was the best way to achieve this.
+
+####[JazzHands](https://github.com/IFTTT/JazzHands)
+`Jazz Hands` is a simple keyframe-based animation framework for UIKit. Animations can be controlled via gestures, scroll views, KVO, or ReactiveCocoa.
+
+####[Canvas](https://github.com/CanvasPod/Canvas)
+`Canvas` is a project to simplify iOS development for both designers and developers. It had been difficult for designers to get hands on building the product with the lack of objective-c and Xcode experience, and a hard time for developer to use reasonable amount of time and lines of code just to achieve really simple effects.
+
+####[Popping](https://github.com/RajkumarPunchh/popping)
+`Popping` is a collection of animation examples for iOS apps. Almost all of them were created using the Facebook pop animation engine. It should inspire you to create some great looking UIs to delight people who use your app.
+
 Bonus
 ===========
 
