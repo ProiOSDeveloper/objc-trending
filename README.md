@@ -83,6 +83,27 @@ The most flexible and powerful way to build a form on iOS.
 ####[PonyDebugger](https://github.com/square/PonyDebugger)
 `PonyDebugger` is a remote debugging toolset. It is a client library and gateway server combination that uses Chrome Developer Tools on your browser to debug your application's network traffic and managed object contexts.
 
+####[DateTools](https://github.com/MatthewYork/DateTools)
+`DateTools` was written to streamline date and time handling in Objective-C. Classes and concepts from other languages served as an inspiration for DateTools, especially the DateTime structure and Time Period Library for .NET. Through these classes and others, DateTools removes the boilerplate required to access date components, handles more nuanced date comparisons, and serves as the foundation for entirely new concepts like Time Periods and their collections.
+
+####[KIF](https://github.com/kif-framework/KIF)
+`KIF`, which stands for Keep It Functional, is an iOS integration test framework. It allows for easy automation of iOS apps by leveraging the accessibility attributes that the OS makes available for those with visual disabilities.
+
+####[Colors](https://github.com/bennyguitar/Colours)
+Drag the included Colours.h and Colours.m files into your project. They are located in the top-level directory. You can see a demo of how to use these with the included Xcode project as well.
+
+####[CRToast](https://github.com/cruffenach/CRToast)
+`CRToast` is a library that allows you to easily create notifications that appear on top of or by pushing out the status bar or navigation bar. CRToast was originally based on CWStatusBarNotification.
+
+####[Reader](https://github.com/vfr/Reader)
+`Reader` is an open source PDF reader code for iOS developers struggling with wrangling PDF files onto iOS device screens.
+
+####[Xcode-Snippets](https://github.com/Xcode-Snippets/Objective-C)
+Just a few code snippets.
+
+####[SIAlertView](https://github.com/Sumi-Interactive/SIAlertView)
+An UIAlertView replacement with block syntax and fancy transition styles
+
 Bonus
 ===========
 
