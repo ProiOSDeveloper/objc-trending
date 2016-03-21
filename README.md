@@ -80,6 +80,9 @@ The most flexible and powerful way to build a form on iOS.
 ####[Popping](https://github.com/RajkumarPunchh/popping)
 `Popping` is a collection of animation examples for iOS apps. Almost all of them were created using the Facebook pop animation engine. It should inspire you to create some great looking UIs to delight people who use your app.
 
+####[PonyDebugger](https://github.com/square/PonyDebugger)
+`PonyDebugger` is a remote debugging toolset. It is a client library and gateway server combination that uses Chrome Developer Tools on your browser to debug your application's network traffic and managed object contexts.
+
 Bonus
 ===========
 
