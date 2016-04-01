@@ -104,6 +104,12 @@ Just a few code snippets.
 ####[SIAlertView](https://github.com/Sumi-Interactive/SIAlertView)
 An UIAlertView replacement with block syntax and fancy transition styles
 
+####[RTImageAssets](https://github.com/rickytan/RTImageAssets)
+A Xcode plugin to automatically generate @2x, @1x image from @3x image for you, or upscale to @3x from @2x. As easy as you press Ctrl+Shift+A, and DONE!
+
+####[SVGKit](https://github.com/SVGKit/SVGKit)
+SVGKit is a Cocoa framework for rendering SVG files natively: it's fast and powerful. 
+
 Bonus
 ===========
 
