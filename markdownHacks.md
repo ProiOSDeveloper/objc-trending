@@ -1,4 +1,4 @@
-#####Embed Icons
+##### Embed Icons
 
 - RED APPLE `(&#x1F34E;)`: 🍎
 - GREEN APPLE `(&#x1F34F;)`: 🍏
@@ -19,3 +19,6 @@
 - DOWN-POINTING RED TRIANGLE `(&#x1F53B;)`: 🔻
 - UP-POINTING SMALL RED TRIANGLE `(&#x1F53C;)`: 🔼
 - DOWN-POINTING SMALL RED TRIANGLE `(&#x1F53D;)`: 🔽
+
+
+#### [Language Highlighting](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
