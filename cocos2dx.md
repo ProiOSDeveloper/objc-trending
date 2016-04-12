@@ -59,7 +59,7 @@ static AppDelegate s_sharedApplication;
 
 - Please make sure that `ARC` is off for the class where you are creating and adding the CCEAGLView object.
 
-- Restrict all your objective-c imports/preprocessors within a `#ifdef __OBJC__` block
+- Restrict all your objective-c imports/preprocessors present in your prefix.pch file within a `#ifdef __OBJC__` block
 
 ```obj-c
 #ifdef __OBJC__
