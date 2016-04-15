@@ -110,6 +110,12 @@ A Xcode plugin to automatically generate @2x, @1x image from @3x image for you, 
 ####[SVGKit](https://github.com/SVGKit/SVGKit)
 SVGKit is a Cocoa framework for rendering SVG files natively: it's fast and powerful. 
 
+####[FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)
+Retain cycles are one of the most common ways of creating memory leaks. It's incredibly easy to create a retain cycle, and tends to be hard to spot it. The goal of FBRetainCycleDetector is to help find retain cycles at runtime.
+
+####[FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler)
+An iOS library providing developer tools for browsing objects in memory over time, using FBAllocationTracker and FBRetainCycleDetector.
+
 Bonus
 ===========
 
